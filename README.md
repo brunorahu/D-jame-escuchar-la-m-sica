@@ -95,4 +95,4 @@ python music_analysis.py
 
 ## 📬 Contacto
 ¿Te interesó este proyecto? ¿Quieres discutir sobre comportamiento de usuarios o análisis de datos?
-Conecta conmigo en LinkedIn o revisa más de mis trabajos en GitHub.
+Conecta conmigo en [LinkedIn](www.linkedin.com/in/bruno-ramos-huerta) o revisa más de mis trabajos en GitHub.
