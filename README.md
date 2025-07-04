@@ -79,3 +79,20 @@ El proyecto se desarrolló en tres etapas principales:
 ```bash
 git clone https://github.com/tu-usuario/dejame-escuchar-la-musica.git
 cd dejame-escuchar-la-musica
+```
+2. Asegúrate de tener Python 3.9+ instalado y las librerías necesarias:
+```bash
+pip install pandas
+```
+
+Ejecuta el script principal:
+
+```bash
+python music_analysis.py
+```
+
+---
+
+## 📬 Contacto
+¿Te interesó este proyecto? ¿Quieres discutir sobre comportamiento de usuarios o análisis de datos?
+Conecta conmigo en LinkedIn o revisa más de mis trabajos en GitHub.
